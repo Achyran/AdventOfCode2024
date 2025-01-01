@@ -8,6 +8,7 @@ namespace AdventOfCode2024
 {
     internal class Day8 : IDay
     {
+        //Still needs to be done 
         public string input => throw new NotImplementedException();
 
         public string example => throw new NotImplementedException();
